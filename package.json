@@ -1,0 +1,24 @@
+{
+  "name": "reminder_app",
+  "version": "1.0.0",
+  "description": "reminder app command line application in Node.js node src/app.js",
+  "main": "index.js",
+  "dependencies": {
+    "json": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbyrob1/reminder_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colbyrob1/reminder_app/issues"
+  },
+  "homepage": "https://github.com/colbyrob1/reminder_app#readme"
+}
