@@ -4,6 +4,9 @@
   "description": "reminder app command line application in Node.js node src/app.js",
   "main": "index.js",
   "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
     "json": "^10.0.0"
   },
   "devDependencies": {},

@@ -15,7 +15,7 @@ const removeQuestion = [
 ];
 
 const main = () => {
-  console.log(chalk.blue(figlet.textSync("Notes App", { font: "isometric3" })));
+  console.log(chalk.blue(figlet.textSync("Coffee", { font: "isometric3" })));
   app();
 };
 
@@ -38,5 +38,7 @@ const app = async () => {
     console.log("Ok, bye for now");
   }
 };
+
+
 
 main();
